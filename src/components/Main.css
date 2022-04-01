@@ -1,0 +1,17 @@
+.div1{
+    margin: 20px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #3c96e5;
+    flex-direction: column;
+}
